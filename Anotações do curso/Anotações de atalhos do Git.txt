@@ -1,0 +1,5 @@
+git config --global -e  : responsável pelas opções de configuração do GIT, 
+Git Status :  objetivo é exibir as condições do diretório de trabalho e da área de staging.
+Git log : permite ver o histórico de commits ou um específico), utilizando opções de personalização do comando para uma visualização mais amigável e descritiva.
+
+
